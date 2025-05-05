@@ -2,11 +2,11 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Prerequisites and Explanation</h1>
+This project explains the prerequisites of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies Used</h2\>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -16,7 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>To install and run osTicket successfully, a few system requirements must be met so heres a list of some of the Prerequisites.</h2>
 
 - VC_redist.x86.exe.
 - MYSQL 5.5.62
@@ -24,31 +24,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHPManagerForIIS_V1.5.0.msi
 - HeidiSQL
 
-<h2>Installation Steps</h2>
-
-
-![osticket-pre reqs](https://github.com/user-attachments/assets/f0b88a96-9241-40ed-a4e4-68ab189c0741)
-this is fje....
+<h2>Setup process for pre-reqs.</h2>
 
 ![os-mysequel](https://github.com/user-attachments/assets/42b70f92-6f7c-4102-a8d3-aff1b466b4da)
-as you can seee......
+
+osTicket uses MySQL Server 5.5 because it’s a stable and efficient database solution that works seamlessly with PHP, making it ideal for managing support tickets reliably and at scale. The MySQL database will store all your tickets, user info, and settings.
+
+
 
 
 ![osticket rewrite mod](https://github.com/user-attachments/assets/b15dd075-2fc7-44c1-b946-e1c5af260e66)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+launching the Setup Wizard helps you configure essential settings like admin account, help topics, and email.
 
-<p>
-<img ![osticket vc](https://github.com/user-attachments/assets/689873e2-fe55-49fc-bc5c-792f46698d6d)
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
 
 ![osticket-mysequel](https://github.com/user-attachments/assets/d66471f9-7045-4ebc-98ae-a9c4b7d24edc)
-this is.....
+
+
+When setting up MYSQL, the root password is a really crucial part. You have to use a strong, unique password to help protect your system from unauthorized access. 
+
 

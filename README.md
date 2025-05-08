@@ -11,6 +11,7 @@ This project lists the prerequisites required to install the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- OsTicket
 
 <h2>Operating Systems Used </h2>
 

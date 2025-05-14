@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src=https://i.imgur.com/kOUpzd6.jpeg/>
 </p>
 
 <h1>How to create a virtual network and recourse group.</h1>

@@ -2,28 +2,21 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Explanation</h1>
-This project lists the prerequisites required to install the open-source help desk ticketing system osTicket. It also explains why some of the selected pre-reqs need to be installed as well as the importance.<br />
+<h1>How to create a virtual network and recourse group.</h1>
+This turtorial explains and shows how to create a virtual network and a recourse group for a beginner just starting out in IT.<br />
 
 
 <h2>Environments and Technologies Used</h2\>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-- OsTicket
+- Microsoft Azure 
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>To install and run osTicket successfully, a few system requirements must be met so heres a list of some of the Prerequisites.</h2>
+<h2>A recourse group is used to organize and manage cloud recourses kind of like files, whereas a virtual network establishes secure communication between virtual machines and other azure services.</h2>
 
-- VC_redist.x86.exe.
-- MYSQL 5.5.62
-- rewrite_amd64_en-US.msi
-- PHPManagerForIIS_V1.5.0.msi
-- HeidiSQL
 
 <h2>Explanation and importance</h2>
 

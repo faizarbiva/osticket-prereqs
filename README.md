@@ -15,7 +15,7 @@ This turtorial explains and shows how to create a virtual network and a recourse
 
 - Windows 10</b> (21H2)
 
-<h2>A recourse group is used to organize and manage cloud recourses kind of like files, whereas a virtual network establishes secure communication between virtual machines and other azure services.</h2>
+<h2>A recourse group is used to organize and manage cloud recourses like files, whereas a virtual network establishes secure communication between virtual machines and other azure services. In this tutorial, I will show how to make a recourse group AND a virtual network inside microsoft azure. </h2>
 
 
 <h2>Tutorials</h2>

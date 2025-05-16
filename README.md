@@ -20,7 +20,7 @@ This turtorial explains and shows how to create a virtual network and a recourse
 
 <h2>Tutorials</h2>
 
-first up Recourse group 
+RECOURSE GROUP
 <p>
 <img src=https://i.imgur.com/6WfAscO.png>
 Search "recourse group" on the search bar on microsoft azure.
@@ -45,7 +45,8 @@ Select your subscription, Name your recourse group, and choose your correct regi
 
 <p>
 <img src=https://i.imgur.com/rYT37J7.png>
-  Click on "create" again and thats all you have to do to create a recourse group on microsoft azure!
+ 
+ Reveiw your information andClick on "create" again and thats all you have to do to create a recourse group on microsoft azure!
 </p>
 <p>
 
@@ -70,7 +71,7 @@ VIRTUAL NETWORK
 
 <p>
 <img src=https://i.imgur.com/W7JthaP.png>
-  Fill out the wanted information like your region and virtual network name. If you want, you could create a new recourse group by clicking on "create new" otherwise you could pick an exisiting group. Click next until on "review and create". You dont have to change anything for the other tabs. 
+  Fill out the wanted information like your region and virtual network name. If you want, you could create a new recourse group by clicking on "create new" otherwise you could pick an exisiting group. Click on "reveiw and create" and you can skip the other tabs as a beginner starting out. 
 </p>
 <p>
 

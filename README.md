@@ -46,7 +46,7 @@ Select your subscription, Name your recourse group, and choose your correct regi
 <p>
 <img src=https://i.imgur.com/rYT37J7.png>
  
- Reveiw your information andClick on "create" again and thats all you have to do to create a recourse group on microsoft azure!
+ Reveiw your information and click on "create" again and thats all you have to do to create a recourse group on microsoft azure!
 </p>
 <p>
 
